@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"M",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"M",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"S",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"L",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":5,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"M",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":6,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"S",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":7,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"M",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    },
+
+    {
+        "id":1,
+        "name":"Velvet shaket",
+        "title":"The great Colombian",
+        "price":2600,
+        "size":"XL",
+        "image":"https://assets.vogue.com/photos/5f10e0b81060b3a0f7e54344/master/w_1920,c_limit/00025-Jacquemus-Spring-21.jpg"
+    }
+
+    
+
+]
