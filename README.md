@@ -85,7 +85,7 @@ It demonstrates end-to-end full-stack development — from frontend UI design to
 ---
 
 ## 🏗️ Application Architecture
-Text```
+```
 Frontend (React)
 │
 ├── UI Components (Pages, Product Cards, Cart)
@@ -98,3 +98,4 @@ Backend (Node + Express)
 ├── Cart Routes
 │
 Database (MongoDB)
+```
